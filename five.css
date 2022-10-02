@@ -1,0 +1,32 @@
+*{
+    background-color: #112b40;
+}
+h1{
+    background-color: cornflowerblue;
+    font-size: 32px;
+    color: white;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-radius: 30%;
+    outline-style: auto;
+    text-align: center;
+}
+h2{
+    text-align: right;
+    color:red;
+    font-size: 24px ;
+    margin-right: 100px;
+    margin-top: 60px;
+}
+p{
+    width:55%;
+    border-radius: 30px;
+    background-color: #eee;
+    text-align: right;
+    font-size: 20px;
+    padding:50px;
+    margin:20px 10px 20px 400px;
+}
+bdi{
+    background-color: #eee;
+}

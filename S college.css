@@ -1,0 +1,39 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #112b40;
+}
+
+
+h3{
+    background-color: cornflowerblue;
+    text-align: center;
+    color:white;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-radius: 30%;
+    outline-style: auto;
+    
+}
+ .photo img{
+    
+        display:block;
+        margin: 0 auto;
+        width: 250px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+       
+
+}
+p{
+    font-size: 16px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:white;
+    font-weight: bold;
+    border: solid ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 30px;

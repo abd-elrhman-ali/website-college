@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cairo", sans-serif;
+  font-size: 20px;
+}
+body {
+  background-color: #112b40;
+}
+.my-p {
+  text-align: center;
+  background-color: cornflowerblue;
+  color: #112b40;
+  width: 60%;
+  margin: 30px auto;
+  padding: 40px;
+  border: 1px solid #112b40;
+  border-radius: 10px;
+  box-shadow: 0 0 80px 0 cornflowerblue;
+}
+.my-pp {
+  background-color: cornflowerblue;
+  color: #112b40;
+  outline: 10px solid cornflowerblue;
+  border-right: #112b40 3px solid;
+  text-align: center;
+  width: 50%;
+  margin: 5px auto;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.divv-1,
+.divv-2,
+.divv-3,
+.divv-4,
+.divv-5,
+.divv-6 {
+  display: inline-block;
+  margin: 60px;
+  /* padding: 20px; */
+  width: 25%;
+  background-color: cornflowerblue;
+}
+
+.divv-6:hover {
+  box-shadow: 0 0 80px 0 cornflowerblue;
+  transition: 1.5s;
+  opacity: 0.1;
+}
+
+.divv-1:hover {
+  box-shadow: 0 0 80px 0 cornflowerblue;
+  transition: 1.5s;
+  opacity: 0.5;
+}
+.divv-2:hover {
+  box-shadow: 0 0 80px 0 cornflowerblue;
+  transition: 1.5s;
+  opacity: 0.5;
+}
+.divv-3:hover {
+  box-shadow: 0 0 80px 0 cornflowerblue;
+  transition: 1.5s;
+  opacity: 0.5;
+}
+.divv-4:hover {
+  box-shadow: 0 0 80px 0 cornflowerblue;
+  transition: 1.5s;
+  opacity: 0.5;
+}
+.divv-5:hover {
+  box-shadow: 0 0 80px 0 cornflowerblue;
+  transition: 1.5s;
+  opacity: 0.5;
+}
+.divv-6:hover {
+  box-shadow: 0 0 80px 0 cornflowerblue;
+  transition: 1.5s;
+  opacity: 0.5;
+}
+.d-1 a img,
+.d-2 a img,
+.d-3 a img,
+.d-4 a img,
+.d-5 a img,
+.d-6 a img {
+  width: -webkit-fill-available;
+  padding: 0;
+  margin: 0;
+  max-height: 280px;
+  min-height: 280px;
+  border-bottom: #112b40 2px solid;
+  box-sizing: border-box;
+}
+
+.d-11,
+.d-22,
+.d-33,
+.d-44,
+.d-55,
+.d-66 {
+  text-align: center;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
+  padding: 20px;
+  background-color: lightslategrey;
+}
+footer h3 {
+  font-family: "Cairo", sans-serif;
+  margin: 20px 0;
+}

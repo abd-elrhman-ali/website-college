@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Cairo", sans-serif;
+    font-size: 20px;
+  }
+  
+  body {
+    background-color: #283747;
+  }
+  .head1{
+    width: 40%;
+    margin: 20px auto;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    outline: 20px solid cornflowerblue;
+    background-color: cornflowerblue;
+    color: #112b40;
+    text-align: center;
+    border: 20px;
+}
+.note1{
+
+    width: 40%;
+    margin: 20px auto;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    outline: 20px solid #b2babb;
+    background-color: #b2babb;
+    color: #112b40;
+    text-align: center;
+    border: 20px;
+
+}
+
+
+
+  
+  .hhhhh-1 {
+    background-color: #b2babb;
+    width: 40%;
+    margin: 20px auto;
+    border-bottom: 5px solid #7f8c8d;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+  }
+
+  .img-1{
+    padding: 20px;
+    margin: 20px;
+    
+    background-color: #b2babb;
+    border-bottom: 3px solid #4b5968;
+    border-radius: 15px;
+    text-align: center;
+    width: 90%;
+    margin-top: 20px;
+  
+  }
+  .tex-1{
+
+    font-size: 120%;
+    padding: 20px;
+    margin: 20px;
+    
+    background-color: #b2babb;
+    border-bottom: 3px solid #5d6d7e;
+    border-radius: 15px;
+    text-align: center;
+    width: 100%;
+    margin-top: 40px;
+  }
+  
+  
+  .q-1,
+  .q-2,
+  .q-3 {
+    padding: 20px;
+    margin: 20px;
+    
+    background-color: #b2babb;
+    border-bottom: 3px solid #5d6d7e;
+    border-radius: 15px;
+    text-align: right;
+    width: 60%;
+    margin-top: 40px;
+  }
+  
+  .q-1:hover,
+  .q-2:hover,
+  .q-3:hover {
+    transition: 2s;
+    box-shadow: 0 0 180px 0 #5d6d7e;
+  }
+  
+  .clear {
+    clear: both;
+  }
+  
+  footer {
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    background-color: lightslategrey;
+    position: absolute;
+    top: 100%;
+  }
+  footer h3 {
+    font-family: "Cairo", sans-serif;
+    margin: 20px 0;
+  }
+  
